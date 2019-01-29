@@ -2,3 +2,7 @@ title: MJ's GitHub Page
 description: Show you what I got.
 theme: jekyll-theme-minimal
 repository: mjung8/mjung8.github.io
+# need this for local server to mimic online
+github:
+        is_user_page: true
+        is_project_page: false
