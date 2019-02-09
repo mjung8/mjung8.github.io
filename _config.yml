@@ -6,3 +6,5 @@ repository: mjung8/mjung8.github.io
 github:
         is_user_page: true
         is_project_page: false
+# for blog
+permalink: /blog/:year/:month/:day/:title
