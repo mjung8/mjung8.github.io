@@ -8,3 +8,5 @@ github:
         is_project_page: false
 # for blog
 permalink: /blog/:year/:month/:day/:title
+logo: assets/img/logo.jpg
+figcaption: Me at Humantay Glacier along the Salktantay trail, Peru. (Photo by Ken S.)

@@ -11,14 +11,29 @@ ul.projects li {
     padding: 5px 0;
 }
 
+figure {
+    margin: 0;
+}
+
+#logo:hover {
+    cursor: pointer;
+}
+
+figcaption {
+    font-size: 0.8em;
+    margin-bottom: 20px;
+}
+
 @media print, screen and (max-width: 960px) {
     
     header {
         margin-bottom: 20px;
+        padding-right: 0;
     }
 
     nav a {
         display: inline;
         padding-right: 8px;
     }
+
 }
