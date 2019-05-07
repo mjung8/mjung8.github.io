@@ -6,7 +6,17 @@ repository: mjung8/mjung8.github.io
 github:
         is_user_page: true
         is_project_page: false
+# for post subdirectories without categories
+defaults:
+  - scope:
+      path: "_posts/blog"
+    values:
+      type: "blog"
+  - scope:
+      path: "_posts/unity"
+    values:
+      type: "unity"
 # for blog
-permalink: /blog/:year/:month/:day/:title
+permalink: /posts/:year/:month/:day/:title
 logo: assets/img/logo.jpg
 figcaption: Me at Humantay Glacier along the Salktantay trail, Peru. (Photo by Ken S.)
