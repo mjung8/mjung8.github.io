@@ -3,6 +3,7 @@ layout: post
 title: "Yay, Learning!"
 date: 2019-05-06
 ---
+Monday
 
 So far I've done some simple tutorials from [raywenderlich.com](https://raywenderlich.com)
 and that felt like an accomplishment. I'm also watching a base-building game playlist of 
@@ -37,3 +38,10 @@ Tilemap Grid
 -GameObject > 2D Object > Tilemap  
 -Painting on Tilemaps (layers; change Active Tilemap in Tile Palette Window)  
 -Collidable layer - Tilemap Collider 2D (Used By Composite checked), Composite Collider 2D, Rigidbody 2D (Static)
+
+Update:
+
+Watching a tutorial and had questions about Unity's Tilemap system. I 
+[found some scripts](https://gamedev.stackexchange.com/questions/150917/how-to-get-all-tiles-from-a-tilemap) 
+to access the individual tiles in a Tilemap. Also,
+[how to change grid size](https://answers.unity.com/questions/1460391/tilemap-resizing-tiles.html).
